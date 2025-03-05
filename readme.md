@@ -19,6 +19,7 @@ Aplicação móvel desenvolvida durante a formação de <b>React Native</b> ofer
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React Native
+- Expo
 - Figma
 - Git e Github
 
