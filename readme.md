@@ -1,4 +1,4 @@
-<h1 align="center"> ToDo List - App </h1>
+<h1 align="center"> TaskHub - App </h1>
 
 <p align="center">
 Aplicação móvel desenvolvida durante a formação de <b>React Native</b> oferecida pela <b>🚀 RocketSeat.</b> Este projeto visa colocar em prática os conhecimentos adquiridos no curso, utilizando as tecnologias e conceitos abordados, como navegação, gerenciamento de estado, e integração com APIs.

@@ -4,6 +4,8 @@ import { Form } from "@/components/input";
 import Logo from '@/assets/images/Logo.svg'
 import { List } from '@/components/Task'
 import { useStorage } from '@/utils/useStorage';
+import { Categories } from "../categories";
+import { Category } from "../category";
 
 export function Home(){
   const { tasks, addTask, removeTask, toggleTaskCompleted } = useStorage();
